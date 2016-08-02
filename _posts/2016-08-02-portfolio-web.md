@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: www.thenomafirm.com
-datePublished: '2016-08-02T03:52:09.374Z'
-dateModified: '2016-08-02T03:52:07.354Z'
+datePublished: '2016-08-02T03:54:13.729Z'
+dateModified: '2016-08-02T03:54:01.621Z'
 title: ''
 author: []
 via: {}
@@ -19,7 +19,7 @@ publisher:
   favicon: null
 starred: false
 url: portfolio-web/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4676239-ac6e-40c5-841d-9fc2704e2760.jpg)
