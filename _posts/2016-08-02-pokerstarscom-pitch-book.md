@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: PokerStars.com pitch book
-datePublished: '2016-08-02T03:52:25.467Z'
-dateModified: '2016-08-02T03:52:19.038Z'
+datePublished: '2016-08-02T03:53:23.473Z'
+dateModified: '2016-08-02T03:53:18.602Z'
 title: ''
 author: []
 via: {}
@@ -19,7 +19,7 @@ publisher:
   favicon: null
 starred: false
 url: pokerstarscom-pitch-book/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db330f3d-d1c2-4a30-8a53-6b657963f8b1.jpg)
