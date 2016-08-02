@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Noumenon Designs]]></title>
         <description><![CDATA[Noumenon Designs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/noumenon-designs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 02:17:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Aug 2016 02:20:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/noumenon-designs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Founded by artist and designer Martin Nibali, the origins of the studio began in the creative pressure cooker of New York City. Now perfectly positioned between the District and Gotham, we bring technically proficient, uniquely gifted, and resonantly creative talent together under one roof. </p>]]></description>
-            <link>undefinedfounded-by-artist-and-designer-martin-nibali-the-origins-of/index.html</link>
+            <link>https://thegrid.ai/noumenon-designs/founded-by-artist-and-designer-martin-nibali-the-origins-of/index.html</link>
             <guid isPermaLink="false">9585ff2d-f063-4706-a57a-f6d764411f57</guid>
-            <pubDate>Tue, 02 Aug 2016 02:17:39 GMT</pubDate>
+            <pubDate>Tue, 02 Aug 2016 02:19:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
