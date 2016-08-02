@@ -9,8 +9,8 @@ description: >-
   in the creative pressure cooker of New York City. Now perfectly positioned
   between the District and Gotham, we bring technically proficient, uniquely
   gifted, and resonantly creative talent together under one roof. 
-datePublished: '2016-08-02T02:40:39.836Z'
-dateModified: '2016-08-02T02:40:14.615Z'
+datePublished: '2016-08-02T03:30:29.309Z'
+dateModified: '2016-08-02T02:47:07.922Z'
 title: ''
 author: []
 via: {}
@@ -27,9 +27,8 @@ _type: Article
 
 Founded by artist and designer Martin Nibali, the origins of the studio began in the creative pressure cooker of New York City. Now perfectly positioned between the District and Gotham, we bring technically proficient, uniquely gifted, and resonantly creative talent together under one roof. 
 
-NOUMENON is "the thing in itself" 
+NOUMENON is "the thing in itself" ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a92e73f-4ab9-4fd3-8fa0-ec6ecde909a9.jpg)
 
 NOUMENON differentiates itself from PHENOMENON as an object of thought separated from the world of the senses. Approaching the NOUMENON is our goal. We are not philosophers. We are designers. Our intention is to distill the ineffable, to find the heart of an organization. Then we mold the clay, and give it form. 
 
 FUNDAMENTAL design. PHENOMENAL results.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a92e73f-4ab9-4fd3-8fa0-ec6ecde909a9.jpg)
