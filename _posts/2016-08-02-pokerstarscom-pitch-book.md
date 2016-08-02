@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: PokerStars.com pitch book
-datePublished: '2016-08-02T03:34:41.678Z'
-dateModified: '2016-08-02T03:34:36.158Z'
+datePublished: '2016-08-02T03:35:44.369Z'
+dateModified: '2016-08-02T03:35:31.443Z'
 title: ''
 author: []
 via: {}
