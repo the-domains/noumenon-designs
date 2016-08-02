@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: www.thenomafirm.com
-datePublished: '2016-08-02T04:06:14.607Z'
-dateModified: '2016-08-02T04:05:57.668Z'
+datePublished: '2016-08-02T04:06:29.000Z'
+dateModified: '2016-08-02T04:06:22.603Z'
 title: ''
 author: []
 via: {}
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: portfolio-web/index.html
 _type: Article
 
