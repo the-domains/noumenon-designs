@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'http://noumeno.us/blog/2015/04/15/iterate-everything/'
-datePublished: '2016-08-03T01:43:35.335Z'
-dateModified: '2016-08-03T01:43:06.042Z'
+datePublished: '2016-08-03T01:45:26.056Z'
+dateModified: '2016-08-03T01:43:43.285Z'
 title: ''
 author: []
 via: {}
