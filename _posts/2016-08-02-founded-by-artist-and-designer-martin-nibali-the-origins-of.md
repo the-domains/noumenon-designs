@@ -9,8 +9,8 @@ description: >-
   in the creative pressure cooker of New York City. Now perfectly positioned
   between the District and Gotham, we bring technically proficient, uniquely
   gifted, and resonantly creative talent together under one roof. 
-datePublished: '2016-08-03T01:46:14.216Z'
-dateModified: '2016-08-03T01:44:51.219Z'
+datePublished: '2016-08-03T01:46:44.339Z'
+dateModified: '2016-08-03T01:46:22.520Z'
 title: ''
 author: []
 via: {}
