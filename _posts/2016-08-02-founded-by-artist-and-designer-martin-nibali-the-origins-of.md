@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: We are not philosophers.
-datePublished: '2016-08-07T05:57:42.488Z'
-dateModified: '2016-08-07T05:57:18.025Z'
+datePublished: '2016-08-07T06:02:25.816Z'
+dateModified: '2016-08-07T06:01:58.113Z'
 title: ''
 author: []
 via: {}
@@ -31,6 +31,6 @@ A NOUMENON is an object of pure thought, an abstract Platonic ideal hovering at 
 
 Understanding the NOUMENON is where we start. 
 
-We are not philosophers, but designers. Our intention is to name the unspeakable, to find the "thing" at the heart of an organization and make it our rally point. We believe there is a difference between communication and marketing. It is easier to strive be your best self, than to wear a mask.
+We are not philosophers, but designers. Our intention is to name the unspeakable, to find the "thing" at the heart of an organization and make it our rally point. We believe there is a difference between communication and marketing. It is easier to strive to be your best self, than to wear a mask.
 
 FUNDAMENTAL design. PHENOMENAL results.
