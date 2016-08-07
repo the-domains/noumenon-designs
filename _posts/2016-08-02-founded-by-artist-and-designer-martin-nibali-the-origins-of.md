@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: We are not philosophers.
-datePublished: '2016-08-07T06:02:25.816Z'
-dateModified: '2016-08-07T06:01:58.113Z'
+datePublished: '2016-08-07T06:17:51.751Z'
+dateModified: '2016-08-07T06:14:11.067Z'
 title: ''
 author: []
 via: {}
@@ -27,10 +27,10 @@ Founded by artist and designer Martin Nibali, Noumenon Designs began in the pres
 
 NOUMENON is "the thing in itself" 
 
-A NOUMENON is an object of pure thought, an abstract Platonic ideal hovering at the center of what could be. It differentiates itself from a PHENOMENON, existing entirely in the felt world of the senses. 
+A NOUMENON is an object of pure thought, an abstract Platonic ideal hovering at the center of what could be. It differentiates itself from a PHENOMENON, which exists in the felt world of the senses. 
 
 Understanding the NOUMENON is where we start. 
 
-We are not philosophers, but designers. Our intention is to name the unspeakable, to find the "thing" at the heart of an organization and make it our rally point. We believe there is a difference between communication and marketing. It is easier to strive to be your best self, than to wear a mask.
+We are not philosophers, but designers. Our intention is to find the "thing" at the heart of an organization and make it our rally point. We believe there is a difference between communication and marketing. It is easier to strive to be your best self, than to wear a mask. The cover of a book should be genuinely inspired by the content of its pages.
 
 FUNDAMENTAL design. PHENOMENAL results.
