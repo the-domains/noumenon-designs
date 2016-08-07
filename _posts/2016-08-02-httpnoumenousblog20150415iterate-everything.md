@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'http://noumeno.us/blog/2015/04/15/iterate-everything/'
-datePublished: '2016-08-03T01:45:26.056Z'
-dateModified: '2016-08-03T01:43:43.285Z'
+datePublished: '2016-08-07T05:44:18.736Z'
+dateModified: '2016-08-07T05:40:20.334Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-08-02-httpnoumenousblog20150415iterate-everything.md
 authors: []
 publisher: {}
-starred: true
+starred: false
 url: httpnoumenousblog20150415iterate-everything/index.html
 _type: Article
 
