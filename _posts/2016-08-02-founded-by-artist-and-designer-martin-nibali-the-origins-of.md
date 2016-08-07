@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: We are not philosophers.
-datePublished: '2016-08-07T05:53:19.278Z'
-dateModified: '2016-08-07T05:52:53.946Z'
+datePublished: '2016-08-07T05:57:42.488Z'
+dateModified: '2016-08-07T05:57:18.025Z'
 title: ''
 author: []
 via: {}
@@ -23,13 +23,13 @@ _type: Article
 
 We are not philosophers.
 
-Founded by artist and designer Martin Nibali, Noumenon Designs began in the pressure cooker of New York City. Now perfectly positioned between the District and Gotham, we bring technically proficient, gifted creative talent to tackle your branding and graphic design needs. 
+Founded by artist and designer Martin Nibali, Noumenon Designs began in the pressure cooker of New York City. Now perfectly positioned in Charm City between the District and Gotham, we bring technically proficient, gifted creative talent to your branding and graphic design needs. 
 
 NOUMENON is "the thing in itself" 
 
-NOUMENON is a pure object of thought, and differentiates itself from PHENOMENON from the world of the senses. 
+A NOUMENON is an object of pure thought, an abstract Platonic ideal hovering at the center of what could be. It differentiates itself from a PHENOMENON, existing entirely in the felt world of the senses. 
 
-Approaching the NOUMENON is our goal. 
+Understanding the NOUMENON is where we start. 
 
 We are not philosophers, but designers. Our intention is to name the unspeakable, to find the "thing" at the heart of an organization and make it our rally point. We believe there is a difference between communication and marketing. It is easier to strive be your best self, than to wear a mask.
 
