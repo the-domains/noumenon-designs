@@ -1,18 +1,18 @@
 ---
+datePublished: '2016-08-08T01:04:53.302Z'
+sourcePath: _posts/2016-08-02-httpnoumenousblog20150415iterate-everything.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: 'http://noumeno.us/blog/2015/04/15/iterate-everything/'
-datePublished: '2016-08-07T05:44:18.736Z'
-dateModified: '2016-08-07T05:40:20.334Z'
-title: ''
 author: []
 via: {}
-sourcePath: _posts/2016-08-02-httpnoumenousblog20150415iterate-everything.md
-authors: []
+dateModified: '2016-08-08T01:04:53.020Z'
+title: ''
 publisher: {}
+description: 'http://noumeno.us/blog/2015/04/15/iterate-everything/'
+inLanguage: null
+inNav: false
 starred: false
 url: httpnoumenousblog20150415iterate-everything/index.html
 _type: Article
