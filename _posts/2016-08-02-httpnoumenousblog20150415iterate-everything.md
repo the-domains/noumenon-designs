@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-08T01:04:53.302Z'
+datePublished: '2016-08-16T01:26:52.202Z'
 sourcePath: _posts/2016-08-02-httpnoumenousblog20150415iterate-everything.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-08T01:04:53.020Z'
+dateModified: '2016-08-16T01:26:51.691Z'
 title: ''
 publisher: {}
 description: 'http://noumeno.us/blog/2015/04/15/iterate-everything/'
