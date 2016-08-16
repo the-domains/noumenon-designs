@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-16T01:21:46.572Z'
+datePublished: '2016-08-16T01:30:08.374Z'
 sourcePath: _posts/2016-08-02-we-are-here.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-16T01:21:46.249Z'
+dateModified: '2016-08-16T01:30:07.645Z'
 title: ''
 publisher: {}
 description: 'We are here: 119 West Elm Avenue • Balto, MD 21206'
