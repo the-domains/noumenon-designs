@@ -1,8 +1,34 @@
-name: Noumenon Designs
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.1558974420186132
-title: noumeno.us
+color:
+  brandColors:
+    - '#ff1b1c'
+    - '#5eb1bf'
+    - '#ef7b45'
+    - '#042a2b'
+    - '#cdedf6'
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0.875
+  rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Noumenon Designs
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: contact
+    id: 89298d88-e1de-4910-9430-dea4a382ab83
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +41,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ff1b1c'
-    - '#5eb1bf'
-    - '#ef7b45'
-    - '#042a2b'
-    - '#cdedf6'
-  brandStrength: 0.5
-  lightness: 0.5625
-  saturation: 0.875
-  rhythmicContrast: 0.75
+title: noumeno.us
 purpose: []
