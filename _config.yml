@@ -11,7 +11,8 @@ color:
   saturation: 0.875
   rhythmicContrast: 0.75
 opengraph:
-  image: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/51862701-3e8c-4ad5-a2e8-3b4357bde966.jpg
   type: null
   appId: null
 layout_spectrum: 0.707374898949638
@@ -19,6 +20,11 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Martin Nibali
+  email: martin@noumeno.us
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/68a3ddf4-b50f-4559-aff2-b6115bfa17fe.png
 name: Noumenon Designs
 cta:
   domain: null
@@ -31,7 +37,8 @@ navigation:
   - name: portfolio
     id: 3d1696dc-56eb-4fa5-ba43-b5d80d91b062
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/385b66cd-fb78-4d9f-9092-b3efb4757d82.png
 collections:
   - index:
       path: /
@@ -44,6 +51,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: noumeno.us
+title: fundamental. phenomenal.
 description: fundamental. phenomenal.
 purpose: []
