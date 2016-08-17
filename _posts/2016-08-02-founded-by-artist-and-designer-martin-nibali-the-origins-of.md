@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-16T01:31:49.427Z'
+datePublished: '2016-08-17T02:00:59.251Z'
 sourcePath: >-
   _posts/2016-08-02-founded-by-artist-and-designer-martin-nibali-the-origins-of.md
 inFeed: true
@@ -10,7 +10,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-16T01:31:48.952Z'
+dateModified: '2016-08-17T02:00:58.933Z'
 title: Noumenon Designs
 publisher: {}
 description: We are not philosophers.
