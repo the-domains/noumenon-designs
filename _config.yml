@@ -1,35 +1,29 @@
-typography_spectrum: 0.9858436423819512
+title: fundamental. phenomenal.
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: fundamental. phenomenal.
 color:
+  saturation: 0.5659574
+  brandStrength: 0.5
+  lightness: 0.587234
   brandColors:
     - '#ff1b1c'
     - '#5eb1bf'
     - '#ef7b45'
     - '#042a2b'
     - '#cdedf6'
-  brandStrength: 0.5
-  lightness: 0.5625
-  saturation: 0.875
   rhythmicContrast: 0.75
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/51862701-3e8c-4ad5-a2e8-3b4357bde966.jpg
-  type: null
-  appId: null
-layout_spectrum: 0.707374898949638
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-author:
-  name: Martin Nibali
-  email: martin@noumeno.us
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/68a3ddf4-b50f-4559-aff2-b6115bfa17fe.png
-name: Noumenon Designs
-cta:
-  domain: null
-  bucket: null
-  version: null
 navigation:
   - name: contact
     id: 89298d88-e1de-4910-9430-dea4a382ab83
@@ -37,20 +31,26 @@ navigation:
   - name: portfolio
     id: 3d1696dc-56eb-4fa5-ba43-b5d80d91b062
     type: content
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: Noumenon Designs
+author:
+  name: Martin Nibali
+  email: martin@noumeno.us
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/385b66cd-fb78-4d9f-9092-b3efb4757d82.png
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-title: fundamental. phenomenal.
-description: fundamental. phenomenal.
-purpose: []
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/51862701-3e8c-4ad5-a2e8-3b4357bde966.jpg
+  type: null
+  appId: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/68a3ddf4-b50f-4559-aff2-b6115bfa17fe.png
+typography_spectrum: 0.9858436423819512
+layout_spectrum: 0.707374898949638
