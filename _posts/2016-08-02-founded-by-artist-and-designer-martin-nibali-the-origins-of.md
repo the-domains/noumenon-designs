@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T02:00:59.251Z'
+datePublished: '2016-08-27T20:44:28.412Z'
 sourcePath: >-
   _posts/2016-08-02-founded-by-artist-and-designer-martin-nibali-the-origins-of.md
 inFeed: true
@@ -10,7 +10,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-17T02:00:58.933Z'
+dateModified: '2016-08-27T20:44:28.014Z'
 title: Noumenon Designs
 publisher: {}
 description: We are not philosophers.
@@ -37,4 +37,4 @@ Understanding the NOUMENON is where we start.
 
 We are not philosophers, but designers. Our intention is to find the "thing" at the heart of an organization and make it our rally point. We believe there is a difference between communication and marketing. It is easier to strive to be your best self, than to wear a mask. The cover of a book should be genuinely inspired by the content of its pages.
 
-FUNDAMENTAL design. PHENOMENAL
+FUNDAMENTAL design. PHENOMENAL results.
