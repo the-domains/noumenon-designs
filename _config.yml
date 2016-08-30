@@ -31,9 +31,6 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: contact
-    id: 89298d88-e1de-4910-9430-dea4a382ab83
-    type: content
   - name: portfolio
     id: 3d1696dc-56eb-4fa5-ba43-b5d80d91b062
     type: content
