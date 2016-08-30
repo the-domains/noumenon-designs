@@ -30,6 +30,10 @@ cta:
   bucket: null
   version: null
   domain: null
+navigation:
+  - name: contact
+    id: 89298d88-e1de-4910-9430-dea4a382ab83
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/385b66cd-fb78-4d9f-9092-b3efb4757d82.png
 collections:
