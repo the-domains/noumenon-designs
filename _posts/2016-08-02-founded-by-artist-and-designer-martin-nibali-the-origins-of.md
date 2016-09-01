@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-27T20:44:28.412Z'
+datePublished: '2016-08-30T02:21:18.945Z'
 sourcePath: >-
   _posts/2016-08-02-founded-by-artist-and-designer-martin-nibali-the-origins-of.md
 inFeed: true
@@ -10,10 +10,10 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-27T20:44:28.014Z'
+dateModified: '2016-08-30T02:13:24.024Z'
 title: Noumenon Designs
 publisher: {}
-description: We are not philosophers.
+description: ' NOUMENON is "the thing in itself"'
 inLanguage: null
 inNav: false
 starred: true
@@ -22,8 +22,6 @@ _type: Article
 
 ---
 # Noumenon Designs
-
-We are not philosophers.
 
 NOUMENON is "the thing in itself"
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a92e73f-4ab9-4fd3-8fa0-ec6ecde909a9.jpg)
