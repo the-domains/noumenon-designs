@@ -34,7 +34,7 @@ navigation:
   - name: contact
     id: 89298d88-e1de-4910-9430-dea4a382ab83
     type: content
-  - name: Portfolio
+  - name: portfolio
     id: 8468cfcb-0486-4a27-b54c-e6527175dd22
     type: content
 favicon: >-
