@@ -34,9 +34,6 @@ navigation:
   - name: contact
     id: 89298d88-e1de-4910-9430-dea4a382ab83
     type: content
-  - name: portfolio
-    id: 8468cfcb-0486-4a27-b54c-e6527175dd22
-    type: content
   - name: paper
     id: 3d1696dc-56eb-4fa5-ba43-b5d80d91b062
     type: content
