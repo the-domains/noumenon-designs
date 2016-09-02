@@ -40,9 +40,6 @@ navigation:
   - name: paper
     id: 3d1696dc-56eb-4fa5-ba43-b5d80d91b062
     type: content
-  - name: digital
-    id: 69ff3603-4a43-4949-9906-c6c9849eddd1
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/385b66cd-fb78-4d9f-9092-b3efb4757d82.png
 collections:
