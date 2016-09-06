@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-09-03T00:10:27.321Z'
+datePublished: '2016-09-03T00:13:03.576Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-03T00:09:56.812Z'
+dateModified: '2016-09-03T00:13:03.185Z'
 title: ''
 publisher: {}
 description: Good Work Deserves Great Design
-starred: false
 sourcePath: _posts/2016-09-03-good-work-deserves-great-design.md
-_type: Blurb
+hasPage: true
+starred: false
+url: good-work-deserves-great-design/index.html
+_type: Article
 
 ---
 Good Work Deserves Great Design
